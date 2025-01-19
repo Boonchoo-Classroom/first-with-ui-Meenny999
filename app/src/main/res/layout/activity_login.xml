@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".LoginActivity">
 
-
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
@@ -210,5 +209,5 @@
         app:layout_constraintStart_toEndOf="@+id/button4"
         app:layout_constraintTop_toTopOf="@+id/button4" />
 
-
 </androidx.constraintlayout.widget.ConstraintLayout>
+
