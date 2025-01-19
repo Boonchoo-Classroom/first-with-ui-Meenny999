@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
-class LoginActivity : AppCompatActivity() {
+class   LoginActivity : AppCompatActivity() {
 
     lateinit var backToMainBtn: Button
 
